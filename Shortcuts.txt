@@ -1,0 +1,15 @@
+Build               Cmd+F9
+Run                 Ctrl+R
+Debug               Ctrl+D
+Find File           Cmd+Shift+O
+Find in Files       Cmd+Shift+F
+Go to Declaration   Cmd+B
+Rename              Shift+F6
+Reformat Code       Cmd+Option+L
+Comment Line        Cmd+/
+Duplicate Line      Cmd+D
+Delete Line         Cmd+Backspace
+
+// Git
+Commit              Cmd+K (built-in Git)
+Push                Cmd+Shift+K

@@ -1,0 +1,35 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+*.app
+
+# IDE - Visual Studio
+.vs/
+Debug/
+Release/
+*.user
+*.suo
+
+build/
+cmake-build-debug/
+cmake-build-release/
+.idea/
+compile_commands.json
